@@ -1,0 +1,15 @@
+<Directory /var/www/test/assets/>
+	Deny from All
+</Directory>
+
+<Directory /var/www/test/projects/>
+	Deny from All
+</Directory>
+
+<Directory /var/www/test/blogposts/>
+	Deny from All
+</Directory>
+
+<Directory /var/www/test/blognotes/>
+	Deny from All
+</Directory>
